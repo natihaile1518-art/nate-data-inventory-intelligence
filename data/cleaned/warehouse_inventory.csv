@@ -1,0 +1,196 @@
+﻿Product_ID,Product_Name,Category,Specification,Quantity,Purchase_Price_ETB,Location,Count_Date,Needs_Review,Total_Stock_Value_ETB
+P0001,Abc Panel,Panel Light,12W,35,400,Warehouse,2026-06-19,False,14000
+P0002,Bright Panel,Panel Light,36W,12,600,Warehouse,2026-06-19,False,7200
+P0003,Diamond Burried,Panel Light,15W,25,500,Warehouse,2026-06-19,False,12500
+P0004,Glory Normal Panel,Panel Light,18W,0,450,Warehouse,2026-06-19,False,0
+P0005,Glory Normal Panel,Panel Light,24W,40,550,Warehouse,2026-06-19,False,22000
+P0006,Luxury Panel,Panel Light,24W,7,500,Warehouse,2026-06-19,False,3500
+P0007,Luxury Panel,Panel Light,36W,0,600,Warehouse,2026-06-19,False,0
+P0008,Nero Panel 3 Color,Panel Light,18W,34,800,Warehouse,2026-06-19,False,27200
+P0009,Nero Panel Warm,Panel Light,24W,25,850,Warehouse,2026-06-19,False,21250
+P0010,Oscar,Panel Light,24W,28,480,Warehouse,2026-06-19,False,13440
+P0011,Panel 3 Color,Panel Light,18W,0,440,Warehouse,2026-06-19,False,0
+P0012,Panel 3 Color,Panel Light,24W,0,540,Warehouse,2026-06-19,False,0
+P0013,Piama Burried,Panel Light,20W,34,600,Warehouse,2026-06-19,False,20400
+P0014,Tesla,Panel Light,48W,21,800,Warehouse,2026-06-19,False,16800
+P0015,Tesla Normal Panel,Panel Light,24W,7,550,Warehouse,2026-06-19,False,3850
+P0016,Tesla Oval,Panel Light,18W,11,400,Warehouse,2026-06-19,False,4400
+P0017,Tesla Panel Bk,Panel Light,18W,24,550,Warehouse,2026-06-19,False,13200
+P0018,Tesla Panel,Panel Light,36W,18,600,Warehouse,2026-06-19,False,10800
+P0019,Tesla Panel Bk,Panel Light,24W,13,850,Warehouse,2026-06-19,False,11050
+P0020,Wetco Warm,Panel Light,30W,0,700,Warehouse,2026-06-19,False,0
+P0021,Abc/Extreme Lamp,Lamp,10W,69,110,Warehouse,2026-06-19,False,7590
+P0022,Awzm Spot Bk,Spot Light,5W,22,180,Warehouse,2026-06-19,False,3960
+P0023,Bib Lamp,Lamp,9W,0,150,Warehouse,2026-06-19,False,0
+P0024,Candle Lamp,Lamp,5W,50,130,Warehouse,2026-06-19,False,6500
+P0025,Cristal Spot,Spot Light,7W,13,420,Warehouse,2026-06-19,False,5460
+P0026,Culle Lamp,Lamp,40W,20,320,Warehouse,2026-06-19,False,6400
+P0027,Dama Flexible Spot,Spot Light,7W,18,280,Warehouse,2026-06-19,False,5040
+P0028,Dyna Spot Warm,Spot Light,7W,72,280,Warehouse,2026-06-19,False,20160
+P0029,Edison 20 Watt,Lamp,20W,58,170,Warehouse,2026-06-19,False,9860
+P0030,Edison 30 Watt,Lamp,30W,71,270,Warehouse,2026-06-19,False,19170
+P0031,Edison 60 Watt,Lamp,60W,62,510,Warehouse,2026-06-19,False,31620
+P0032,Edison Lamp,Lamp,5W,71,80,Warehouse,2026-06-19,False,5680
+P0033,Edison Lamp,Lamp,5W,62,130,Warehouse,2026-06-19,False,8060
+P0034,Efficient Lamp,Lamp,6W,69,290,Warehouse,2026-06-19,False,20010
+P0035,Esmiz Spot Bk,Spot Light,7W,50,230,Warehouse,2026-06-19,False,11500
+P0036,Esmiz Spot Warm,Spot Light,7W,54,220,Warehouse,2026-06-19,False,11880
+P0037,Glass Spot Wood,Spot Light,5W,23,180,Warehouse,2026-06-19,False,4140
+P0038,Grand Spot Silver Wh,Spot Light,7W,22,220,Warehouse,2026-06-19,False,4840
+P0039,Itel Led Lamp,Lamp,5W,0,80,Warehouse,2026-06-19,False,0
+P0040,Kk Spot Bk,Spot Light,7W,17,230,Warehouse,2026-06-19,False,3910
+P0041,Led Lamp,Lamp,5W,42,80,Warehouse,2026-06-19,False,3360
+P0042,Led Lamp Warm Glass,Lamp,6W,50,290,Warehouse,2026-06-19,False,14500
+P0043,Led Star Spot Bk,Spot Light,7W,21,220,Warehouse,2026-06-19,False,4620
+P0044,Ledme Warm,Lamp,9W,57,100,Warehouse,2026-06-19,False,5700
+P0045,Luxury 20 Watt,Lamp,20W,76,150,Warehouse,2026-06-19,False,11400
+P0046,Luxury Spot,Spot Light,5W,58,220,Warehouse,2026-06-19,False,12760
+P0047,Merwan Lamp,Lamp,4W,44,100,Warehouse,2026-06-19,False,4400
+P0048,Mr Flexible Spot,Spot Light,5W,61,280,Warehouse,2026-06-19,False,17080
+P0049,Ms Spot Bk,Spot Light,5W,15,220,Warehouse,2026-06-19,False,3300
+P0050,Nero Lamp Big,Lamp,7W,23,600,Warehouse,2026-06-19,False,13800
+P0051,Nero Spot,Spot Light,7W,23,220,Warehouse,2026-06-19,False,5060
+P0052,Pronews Spot,Spot Light,7W,56,220,Warehouse,2026-06-19,False,12320
+P0053,Qotabi Light,Lamp,9W,60,100,Warehouse,2026-06-19,False,6000
+P0054,Robel,Lamp,12W,0,180,Warehouse,2026-06-19,False,0
+P0055,Robel,Lamp,7W,61,110,Warehouse,2026-06-19,False,6710
+P0056,Robel,Lamp,9W,13,120,Warehouse,2026-06-19,False,1560
+P0057,Samra,Lamp,5W,37,120,Warehouse,2026-06-19,False,4440
+P0058,Show Spot Small,Spot Light,5W,24,200,Warehouse,2026-06-19,False,4800
+P0059,Sonic Spot Bk,Spot Light,7W,50,240,Warehouse,2026-06-19,False,12000
+P0060,Spark Spot Silver,Spot Light,7W,73,220,Warehouse,2026-06-19,False,16060
+P0061,Steiline,Lamp,9W,37,120,Warehouse,2026-06-19,False,4440
+P0062,Tesla 15 Watt,Lamp,15W,54,95,Warehouse,2026-06-19,False,5130
+P0063,Tesla Spot Bk,Spot Light,7W,15,230,Warehouse,2026-06-19,False,3450
+P0064,Tesla Spot Iron,Spot Light,7W,53,230,Warehouse,2026-06-19,False,12190
+P0065,Tesla Spot White,Spot Light,5W,71,230,Warehouse,2026-06-19,False,16330
+P0066,Tesisoy 36 Watt,Lamp,36W,71,280,Warehouse,2026-06-19,False,19880
+P0067,Tesisoy 60 Watt,Lamp,60W,41,510,Warehouse,2026-06-19,False,20910
+P0068,Til Boroui Spot Silver,Spot Light,7W,17,220,Warehouse,2026-06-19,False,3740
+P0069,Top Spot Wh,Spot Light,7W,0,220,Warehouse,2026-06-19,False,0
+P0070,Twin 30 Watt,Lamp,30W,18,230,Warehouse,2026-06-19,False,4140
+P0071,Usipu Warm,Lamp,9W,60,120,Warehouse,2026-06-19,False,7200
+P0072,Viva Spot Bk,Spot Light,7W,33,240,Warehouse,2026-06-19,False,7920
+P0073,Viva Spot Wh,Spot Light,7W,46,240,Warehouse,2026-06-19,False,11040
+P0074,Vinix,Lamp,40W,66,420,Warehouse,2026-06-19,False,27720
+P0075,Warm Oval Lamp Small,Lamp,7W,67,920,Warehouse,2026-06-19,False,61640
+P0076,Wishoul 3 Color,Lamp,5W,48,100,Warehouse,2026-06-19,False,4800
+P0077,Breaker Box With One,Breaker,N/A,18,250,Warehouse,2026-06-19,False,4500
+P0078,Chnt 1 Phase,Breaker,10A,0,300,Warehouse,2026-06-19,False,0
+P0079,Chnt 1 Phase,Breaker,25A,18,300,Warehouse,2026-06-19,False,5400
+P0080,Chnt 1 Phase,Breaker,32A,6,300,Warehouse,2026-06-19,False,1800
+P0081,Chnt 1 Phase,Breaker,50A,2,480,Warehouse,2026-06-19,False,960
+P0082,Chnt 2 Phase,Breaker,25A,4,600,Warehouse,2026-06-19,False,2400
+P0083,Chnt 3 Phase,Breaker,5A,12,1200,Warehouse,2026-06-19,False,14400
+P0084,Chnt 3 Phase,Breaker,16A,9,1200,Warehouse,2026-06-19,False,10800
+P0085,Chnt 3 Phase,Breaker,63A,12,1500,Warehouse,2026-06-19,False,18000
+P0086,Chnt,Breaker,80A,3,1800,Warehouse,2026-06-19,False,5400
+P0087,Chnt,Breaker,125A,10,2500,Warehouse,2026-06-19,False,25000
+P0088,Change Over,Breaker,32A,4,2600,Warehouse,2026-06-19,False,10400
+P0089,Contactor,Breaker,25A,12,900,Warehouse,2026-06-19,False,10800
+P0090,Contactor,Breaker,50A,2,1200,Warehouse,2026-06-19,False,2400
+P0091,Delix 3 Phase,Breaker,25A,13,1200,Warehouse,2026-06-19,False,15600
+P0092,Delix Contactor,Breaker,50A,15,1500,Warehouse,2026-06-19,False,22500
+P0093,Fuse Holder Andeli,Breaker,N/A,5,120,Warehouse,2026-06-19,False,600
+P0094,Havells 1 Phase,Breaker,25A,0,300,Warehouse,2026-06-19,False,0
+P0095,Himer 3 Phase,Breaker,25A,5,1200,Warehouse,2026-06-19,False,6000
+P0096,Kalki Breaker,Breaker,N/A,9,350,Warehouse,2026-06-19,False,3150
+P0097,Romel 3 Phase,Breaker,42A,3,1200,Warehouse,2026-06-19,False,3600
+P0098,Abay Pawza,Pawza,200W,3,3200,Warehouse,2026-06-19,False,9600
+P0099,Chargeable Lamp,Pawza,9W,1,700,Warehouse,2026-06-19,False,700
+P0100,Clay Pawza,Pawza,50W,1,1250,Warehouse,2026-06-19,False,1250
+P0101,Clay Pawza,Pawza,100W,0,2900,Warehouse,2026-06-19,False,0
+P0102,Clay Pawza,Pawza,200W,2,3200,Warehouse,2026-06-19,False,6400
+P0103,Focus Pawza,Pawza,50W,4,1400,Warehouse,2026-06-19,False,5600
+P0104,Yushibeng Pawza,Pawza,200W,0,2600,Warehouse,2026-06-19,False,0
+P0105,Breaker Box By One,Breaker,N/A,18,150,Warehouse,2026-06-19,False,2700
+P0106,Change Over,Breaker,32A,7,2650,Warehouse,2026-06-19,False,18550
+P0107,Chint 1 Phase,Breaker,10A,11,300,Warehouse,2026-06-19,False,3300
+P0108,Chint 1 Phase,Breaker,10A,20,300,Warehouse,2026-06-19,False,6000
+P0109,Chint 1 Phase,Breaker,16A,5,300,Warehouse,2026-06-19,False,1500
+P0110,Chint 1 Phase,Breaker,25A,3,300,Warehouse,2026-06-19,False,900
+P0111,Chint 1 Phase,Breaker,25A,12,480,Warehouse,2026-06-19,False,5760
+P0112,Chint 1 Phase,Breaker,32A,6,300,Warehouse,2026-06-19,False,1800
+P0113,Chint 1 Phase,Breaker,32A,4,300,Warehouse,2026-06-19,False,1200
+P0114,Chint 1 Phase,Breaker,50A,10,1200,Warehouse,2026-06-19,False,12000
+P0115,Chint 2 Phase,Breaker,25A,20,900,Warehouse,2026-06-19,False,18000
+P0116,Chint 3 Phase,Breaker,32A,4,1800,Warehouse,2026-06-19,False,7200
+P0117,Chint 3 Phase,Breaker,63A,4,1500,Warehouse,2026-06-19,False,6000
+P0118,Chint 3 Phase,Breaker,80A,11,3800,Warehouse,2026-06-19,False,41800
+P0119,Contactor,Breaker,25A,5,900,Warehouse,2026-06-19,False,4500
+P0120,Contactor,Breaker,50A,6,1200,Warehouse,2026-06-19,False,7200
+P0121,Delix 3 Phase,Breaker,25A,10,1200,Warehouse,2026-06-19,False,12000
+P0122,Delix Contactor,Breaker,50A,9,1500,Warehouse,2026-06-19,False,13500
+P0123,Fuse Holder Andeli,Breaker,N/A,2,500,Warehouse,2026-06-19,False,1000
+P0124,Havells 1 Phase,Breaker,25A,16,300,Warehouse,2026-06-19,False,4800
+P0125,Himel 3 Phase,Breaker,25A,8,4800,Warehouse,2026-06-19,False,38400
+P0126,Romel 3 Phase,Breaker,42A,8,1200,Warehouse,2026-06-19,False,9600
+P0127,Shinder Contactor,Breaker,32A,13,1200,Warehouse,2026-06-19,False,15600
+P0128,Plastic Globe,Plastic Globe,300 Size,2,1500,Warehouse,2026-06-19,False,3000
+P0129,Plastic Globe Jemaro,Plastic Globe,300 Size,3,700,Warehouse,2026-06-19,False,2100
+P0130,Plastic Globe,Plastic Globe,360 Size,5,1500,Warehouse,2026-06-19,False,7500
+P0131,Plastic Globe,Plastic Globe,400 Size,9,2200,Warehouse,2026-06-19,False,19800
+P0132,Plastic Globe Jemaro,Plastic Globe,400 Size,3,900,Warehouse,2026-06-19,False,2700
+P0133,Plastic Globe,Plastic Globe,500 Size,8,2800,Warehouse,2026-06-19,False,22400
+P0134,Led Painting,Magnetic Light,N/A,1,4500,Warehouse,2026-06-19,False,4500
+P0135,Magnetic Light,Magnetic Light,2 Meter,1,2700,Warehouse,2026-06-19,False,2700
+P0136,Magnetic Light,Magnetic Light,3 Meter,1,3200,Warehouse,2026-06-19,False,3200
+P0137,Phase Bar,Electrical Component,3 Phase,1,1500,Warehouse,2026-06-19,False,1500
+P0138,Power Supply,Electrical Component,200W,2,2500,Warehouse,2026-06-19,False,5000
+P0139,Table Light,Magnetic Light,N/A,3,2500,Warehouse,2026-06-19,False,7500
+P0140,Zero Fluorescent,Magnetic Light,60 cm,3,2800,Warehouse,2026-06-19,False,8400
+P0141,Zero Led,Magnetic Light,12 Eye,3,2500,Warehouse,2026-06-19,False,7500
+P0142,Zero Led,Magnetic Light,18 Eye,0,3000,Warehouse,2026-06-19,False,0
+P0143,Zero Shutter,Magnetic Light,Standard,3,2800,Warehouse,2026-06-19,False,8400
+P0144,Zero Shutter,Magnetic Light,12 Eye,3,2800,Warehouse,2026-06-19,False,8400
+P0151,Bk Switch,Grand,N/A,28,190,Warehouse,2026-06-19,False,5320
+P0152,Bk Triple,Grand,N/A,19,320,Warehouse,2026-06-19,False,6080
+P0153,Dish Switch,Grand,N/A,6,260,Warehouse,2026-06-19,False,1560
+P0154,Nero Dish,Grand,N/A,14,260,Warehouse,2026-06-19,False,3640
+P0155,Nero Switch,Grand,N/A,21,190,Warehouse,2026-06-19,False,3990
+P0156,Silver Socket,Grand,N/A,13,190,Warehouse,2026-06-19,False,2470
+P0157,Silver Socket Switch,Grand,N/A,20,280,Warehouse,2026-06-19,False,5600
+P0158,Silver Switch,Grand,N/A,14,190,Warehouse,2026-06-19,False,2660
+P0159,Triple,Grand,N/A,7,320,Warehouse,2026-06-19,False,2240
+P0160,Tv And Socket,Grand,N/A,28,350,Warehouse,2026-06-19,False,9800
+P0161,Data,Haud,N/A,13,380,Warehouse,2026-06-19,False,4940
+P0162,Double Switch,Haud,N/A,17,290,Warehouse,2026-06-19,False,4930
+P0163,Marwan Tv,Haud,N/A,12,260,Warehouse,2026-06-19,False,3120
+P0164,Silver Data,Haud,N/A,20,380,Warehouse,2026-06-19,False,7600
+P0165,Silver Dimmer,Haud,N/A,0,280,Warehouse,2026-06-19,False,0
+P0166,Silver Double Switch,Haud,N/A,19,290,Warehouse,2026-06-19,False,5510
+P0167,Silver Socket,Haud,N/A,8,210,Warehouse,2026-06-19,False,1680
+P0168,Silver Switch,Haud,N/A,26,210,Warehouse,2026-06-19,False,5460
+P0169,Silver Triple,Haud,N/A,30,380,Warehouse,2026-06-19,False,11400
+P0170,Silver Tv,Haud,N/A,28,260,Warehouse,2026-06-19,False,7280
+P0171,Socket Usb,Haud,N/A,28,790,Warehouse,2026-06-19,False,22120
+P0172,Switch,Haud,N/A,14,210,Warehouse,2026-06-19,False,2940
+P0173,Tv + Socket,Haud,N/A,28,210,Warehouse,2026-06-19,False,5880
+P0174,4 Way Switch,Vegas,N/A,11,460,Warehouse,2026-06-19,False,5060
+P0175,4 Way Switch,Vegas,N/A,27,460,Warehouse,2026-06-19,False,12420
+P0176,6 Way Switch,Vegas,N/A,18,510,Warehouse,2026-06-19,False,9180
+P0177,Data,Vegas,N/A,8,380,Warehouse,2026-06-19,False,3040
+P0178,Double Switch,Vegas,N/A,24,295,Warehouse,2026-06-19,False,7080
+P0179,Intermediate Switch,Vegas,N/A,9,280,Warehouse,2026-06-19,False,2520
+P0180,Socket,Vegas,N/A,24,205,Warehouse,2026-06-19,False,4920
+P0181,Switch,Vegas,N/A,22,205,Warehouse,2026-06-19,False,4510
+P0182,Triple Switch,Vegas,N/A,23,395,Warehouse,2026-06-19,False,9085
+P0183,Tv,Vegas,N/A,25,260,Warehouse,2026-06-19,False,6500
+P0184,Tv + Socket,Vegas,N/A,27,375,Warehouse,2026-06-19,False,10125
+P0185,Usb + Socket,Vegas,N/A,30,790,Warehouse,2026-06-19,False,23700
+P0186,Crystal Mirror,Mirror Light,Small,3,2800,Warehouse,2026-06-19,False,8400
+P0187,Crystal Mirror,Mirror Light,Large,1,3200,Warehouse,2026-06-19,False,3200
+P0188,Royal Fluorescent,Mirror Light,N/A,0,2000,Warehouse,2026-06-19,False,0
+P0189,Royal Nero,Mirror Light,N/A,3,2600,Warehouse,2026-06-19,False,7800
+P0190,Double Blue Strip,Strip Light,N/A,67,125,Warehouse,2026-06-19,False,8375
+P0191,Double Warm Strip,Strip Light,N/A,20,125,Warehouse,2026-06-19,False,2500
+P0192,Rgb Strip,Strip Light,RGB,83,165,Warehouse,2026-06-19,False,13695
+P0193,Single Aluminium Warm,Strip Light,Warm,41,165,Warehouse,2026-06-19,False,6765
+P0194,Single Aluminium White,Strip Light,White,96,95,Warehouse,2026-06-19,False,9120
+P0195,Strip Socket 3 Pin,Strip Light,large,35,300,Warehouse,2026-06-19,False,10500
+P0196,Strip Socket 3 Pin,Strip Light,Small,105,300,Warehouse,2026-06-19,False,31500
+P0197,Triple Blue Strip,Strip Light,N/A,0,135,Warehouse,2026-06-19,False,0
+P0198,Triple Warm Strip,Strip Light,N/A,88,155,Warehouse,2026-06-19,False,13640
+P0199,Triple White Strip,Strip Light,N/A,113,145,Warehouse,2026-06-19,False,16385
+P0200,Warm + Blue Strip,Strip Light,Mixed Color,88,125,Warehouse,2026-06-19,False,11000
+P0201,Warm + White Strip,Strip Light,Mixed Color,109,125,Warehouse,2026-06-19,False,13625

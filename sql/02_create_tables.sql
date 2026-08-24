@@ -100,6 +100,7 @@ CREATE TABLE IF NOT EXISTS inventory_snapshots (
     notes        VARCHAR(255) NULL,
     created_at   TIMESTAMP  NOT NULL DEFAULT CURRENT_TIMESTAMP,
     PRIMARY KEY (snapshot_id),
+    UNIQUE KEY uq_snapshot (product_id, location_id, count_date),
     FOREIGN KEY (product_id)  REFERENCES products(product_id),
     FOREIGN KEY (location_id) REFERENCES locations(location_id)
 );
@@ -135,6 +136,7 @@ CREATE TABLE IF NOT EXISTS purchase_items (
     quantity          INT            NOT NULL,
     purchase_price_etb DECIMAL(10,2) NOT NULL,
     PRIMARY KEY (item_id),
+    UNIQUE KEY uq_purchase_item (purchase_id, product_id),
     FOREIGN KEY (purchase_id) REFERENCES purchases(purchase_id),
     FOREIGN KEY (product_id)  REFERENCES products(product_id)
 );

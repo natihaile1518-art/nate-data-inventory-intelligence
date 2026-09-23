@@ -42,12 +42,16 @@ st.markdown("""
 # -------------------------------------------------------
 def get_connection():
     try:
+        db = st.secrets["mysql"]
         return mysql.connector.connect(
-            host     = 'localhost',
-            port     = 3306,
-            user     = 'root',
-            password = '4516Abaye@',
-            database = 'nate_data'
+            host                = db["host"],
+            port                = int(db["port"]),
+            user                = db["user"],
+            password            = db["password"],
+            database            = db["database"],
+            ssl_disabled        = False,
+            ssl_verify_cert     = False,
+            ssl_verify_identity = False
         )
     except Error as e:
         st.error(f"Database connection failed: {e}")

@@ -15,11 +15,6 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded"
 )
-@st.cache_data
-def load_data():
-    shop = pd.read_csv(shop_path)
-    warehouse = pd.read_csv(wh_path)
-    return shop, warehouse, combined
 # -------------------------------------------------------
 # DATABASE CONNECTION
 # VERSION 1 used: pd.read_csv(file_path)
@@ -31,16 +26,21 @@ def load_data():
 def get_connection():
     """
     Establishes and returns a MySQL connection.
-    Returns None if connection fails.
-    Called every time we need to query the database.
+    Credentials are read from Streamlit Secrets — never hardcoded.
+    Locally: reads from .streamlit/secrets.toml
+    Deployed: reads from Streamlit Cloud secret settings
     """
     try:
+        db = st.secrets["mysql"]
         connection = mysql.connector.connect(
-            host     = 'localhost',
-            port     = 3306,
-            user     = 'root',
-            password = '4516Abaye@',
-            database = 'nate_data'
+            host                = db["host"],
+            port                = int(db["port"]),
+            user                = db["user"],
+            password            = db["password"],
+            database            = db["database"],
+            ssl_disabled        = False,
+            ssl_verify_cert     = False,
+            ssl_verify_identity = False
         )
         return connection
     except Error as e:
@@ -139,10 +139,8 @@ st.markdown("""
     }
     </style>
 """, unsafe_allow_html=True)
-@st.cache_data
-def load_data():
-    shop = pd.read_csv('inventory_cleaned.csv')
-    return shop
+# -------------------------------------------------------
+# DATA LOADING
 # -------------------------------------------------------
 # DATA LOADING
 # VERSION 1: pd.read_csv() — reads static files
